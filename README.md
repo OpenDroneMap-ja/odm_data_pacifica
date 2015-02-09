@@ -1,2 +1,2 @@
 # odm_data_pacifica
-OpenDroneMap Pacifica dataset
+Michele Tobias' Pacifica dataset (see license)
